@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋.  I'm Rob!
+
+## Where to find me
+
+<a href="https://mastodon.social/@robbomodemman" rel="me>https://mastodon.social/@robbomodemman</a>
 
 <!--
 **RobertBernstein/RobertBernstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
